@@ -2,6 +2,8 @@
 
 ![Preview](./preview.gif)
 
+**[https://iamovi.github.io/tf.exe/](https://iamovi.github.io/tf.exe/)**
+
 ## Screenshots
 
 <table>
