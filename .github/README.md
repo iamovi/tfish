@@ -1,8 +1,8 @@
-`tfexe` is a stunning, fully interactive terminal-based portfolio website that simulates a complete operating system experience. Built with React, TypeScript, and Vite, this template transforms your portfolio into an immersive desktop environment with a BIOS boot sequence, login screen, draggable icons, and a functional terminal.
+`tfish` is a stunning, fully interactive terminal-based portfolio website that simulates a complete operating system experience. Built with React, TypeScript, and Vite, this template transforms your portfolio into an immersive desktop environment with a BIOS boot sequence, login screen, draggable icons, and a functional terminal.
 
 ![Preview](./preview.gif)
 
-**[https://iamovi.github.io/tfexe/](https://iamovi.github.io/tfexe/)**
+**[https://iamovi.github.io/tfish/](https://iamovi.github.io/tfish/)**
 
 ## Screenshots
 
@@ -27,7 +27,7 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/iamovi/tf.exe.git
+git clone https://github.com/iamovi/tfish.git
 cd tf.exe
 
 # Install dependencies
